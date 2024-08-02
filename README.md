@@ -1,11 +1,11 @@
 ![logo](https://github.com/user-attachments/assets/26b9b449-940d-4964-8f55-1a0d7a7fec65)
-
+<p>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 <h2> Descrição Geral do Projeto </h2>
 O “BemPets” é um site que tem como objetivo o encontro de tutores de animais de estimação que precisam de alguém qualificado para cuidar do seu amigo, e cuidadores que estão dispostos a zelarem por esses animais. O principal diferencial do sistema BemPets é a segurança da nossa plataforma em relação aos cuidaodores: Aqui não basta fazer um cadastro, a pessoa que deseja ser o nosso cuidador terá que passar por uma prova teórica, investigação de ficha criminal e atualizações contínuas das nossas medidas de seguranaça. Tudo isso para transmitir confiança para os clientes em nossos serviços!
 
 Projeto fictício desenvolvido para o projeto avaliativo final do curso Programa de Desenvolvedor Full Stack (Senac)
-
-🐈‍⬛ Projeto Concluído 🐈‍⬛
 
 
 <h2> Descrição Técnica </h2>
@@ -47,6 +47,18 @@ Facilitar o encontro de tutores e cuidadores, trazendo praticiade e conforto pri
 - `Mapas Para Interligar Cuidadores e Tutores`: Utilizar de mapas para ajudar cuidadores a localizar tutores mais próximos e vice-versa.
 - `Utilidade de Preferências Por Meio de Filtros`: Caso um tutor de gatos, por exemplo, desejar um cuidador especialista em felinos, ele consegue filtrar por meio das preferências no nosso site, o levando assim apenas para cuidadores que previamente disseram terem mais familiaridade com gatos. 
 - `Status de Serviço`: O cuidador consegue adcionar na sua conta fotos e comentários de seu serviço presente que ficarão disponíveis 24 horas, dessa forma passando mais credibilidade para o público que visitará o seu perfil no site.
+
+![image](https://github.com/user-attachments/assets/31e411aa-d7a2-4f8c-a29d-86b24550a860)
+![image](https://github.com/user-attachments/assets/85861323-aa1c-44e6-a45d-d7df1ce17d80)
+![image](https://github.com/user-attachments/assets/e93480ff-4e70-4191-8b83-8d45489e4e0d)
+![image](https://github.com/user-attachments/assets/8e7bade9-921c-456a-8830-21c7068a70f4)
+![image](https://github.com/user-attachments/assets/7be87834-f9ec-4250-a2c0-eb13977e62f7)
+![image](https://github.com/user-attachments/assets/ae1e4e9f-6f4d-4021-8b0f-66b0184d5c2f)
+![image](https://github.com/user-attachments/assets/99e091c4-ce4a-481e-9956-c8f3bbe3d92e)
+![image](https://github.com/user-attachments/assets/728ef0c7-ff07-45b5-a49b-b03ac9f04bc7)
+![image](https://github.com/user-attachments/assets/acd92c67-545c-48f7-8dd3-055296b74a53)
+![image](https://github.com/user-attachments/assets/1458c2e7-0b0e-42bf-88da-44dd947aff18)
+
 
 <h2> 🦮 Diferenciais 🦮 </h2>
 •	Site intuitivo
