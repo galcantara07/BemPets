@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/26b9b449-940d-4964-8f55-1a0d7a7fec65)
 
 <h2> Descrição Geral do Projeto </h2>
-O “BemPets” é um site, em que de forma simples e intuitiva, o tutor pode cadastrar os seus dados e do seu animal de estimação, bem como, o cuidador deve se cadastrar e estipular dados básicos, além de estipular valores e passar por uma séria avaliação teórica e de segurança para ser oficialmente aceito. Após aceito, o sistema do BemPets irá relacionar o cuidador com o tutor de pet mais próximo de sua localização, e também irá adcioná-lo no catálogo de cuidadores disponíveis.
+O “BemPets” é um site que tem como objetivo o encontro de tutores de animais de estimação que precisam de alguém qualificado para cuidar do seu amigo, e cuidadores que estão dispostos a zelarem por esses animais. O principal diferencial do sistema BemPets é a segurança da nossa plataforma em relação aos cuidaodores: Aqui não basta fazer um cadastro, a pessoa que deseja ser o nosso cuidador terá que passar por uma prova teórica, investigação de ficha criminal e atualizações contínuas das nossas medidas de seguranaça. Tudo isso para transmitir confiança para os clientes em nossos serviços!
 
 Projeto fictício desenvolvido para o projeto avaliativo final do curso Programa de Desenvolvedor Full Stack (Senac)
 
@@ -50,6 +50,8 @@ Facilitar o encontro de tutores e cuidadores, trazendo praticiade e conforto pri
 
 <h2> 🦮 Diferenciais 🦮 </h2>
 •	Site intuitivo
+
+•	Segurança garantida
 
 •	Feedback e avaliações
 
