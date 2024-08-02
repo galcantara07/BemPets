@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link
+      rel="shortcut icon"
+      href="assets/img/feline-track_2047.png"
+      type="image/x-icon"
+    />
+    <title>BemPets - Cuidadores de Animais</title>
+    <!-- <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  /> -->
+    <style>
+      .bg-encontrar {
+      background: url(assets/img/encontrar.jpg) no-repeat;
+      background-size: cover;
+      min-height: 90vh;
+      opacity: 0.9;
+    }
+
+    .background-form {
+        background-color: #d4b3e4;
+      }
+
+      .diferenciais img {
+            width: 16rem;
+            height: 12rem;
+        }
+
+      
+    </style>
+  </head>
+
+  <body>
+    <!-- Cabeçalho -->
+    <header>
+      <!-- Barra de navegação -->
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container-fluid">
+          <!-- Logomarca -->
+          <a class="navbar-brand" href="index.html">
+            <img src="assets/img/Group 2 1.png" alt="Logomarca" class="logo" />
+          </a>
+
+          <!-- Botão de menu -->
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Links -->
+          <div class="collapse navbar-collapse nav justify-content-center" id="navbarSupportedContent">
+            <ul class="nav justify-content-center nav-underline mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" aria-current="page" href="index.html">Início
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="encontrar.html">Encontrar um cuidador</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="cuidador.html">Ser um cuidador</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contatos.html">Contatos</a>
+              </li>
+              <li class="nav-item ms-5 mt-1">
+                <a href="login_cadastro.php">
+                  <button type="submit" class="btn btn-primary  ms-3">
+                    Fazer Login
+                  </button>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Botão de login
+           <div class="me-5">
+            <a href="login.html"
+              ><button type="submit" class="btn btn-primary me-5">
+                Fazer Login
+              </button></a
+            >
+          </div>  -->
+        </div>
+      </nav>
+    </header>
+    <!-- Fim do Cabeçalho -->
+
+    <!-- Conteúdo da página -->
+    <main class="conteudo">
+      <section class="container-fluid bg-encontrar text-dark text-wight at-5 ">
+        <div class="container p-0">
+          <div class="row">
+
+            <!-- Coluna 1 (Texto) -->
+            <div class="col-lg-6 col-12 text-center fundo">
+              <h1 class="mt-0">Encontre o cuidador ideal para seu pet</h1>
+              <p class="lead paragrafo fw-400">
+                A nossa missão é proporcionar uma experiência segura e confiável para os donos de animais de estimação, garantindo que seus pets sejam bem cuidados quando precisam ficar longe de casa. Promovendo o bem-estar animal ao oferecer uma alternativa acolhedora aos tradicionais hotéis para cães, permitindo que os animais recebam atenção personalizada em ambientes familiares enquanto seus donos estão ausentes.
+              </p>
+              <div>
+                <a href="encontrar.html">
+                  <button type="button" class="botao-encontrar ">Encontrar um Cuidador</button>
+                </a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!--formulário para encontrar cuidador-->
+      <h1 class="text-center">Encontre o cuidador ideal para o seu pet</h1>
+      <img src="assets/img/encontrar2-removebg-preview.png" alt="" width="30%" class="pt-2 pb-5 img-fluid mx-auto d-block ">
+      
+      <!-- cuidadores -->
+      <section class="container-fluid diferenciais pt-5">
+
+        <div class="container d-flex justify-content-center">
+
+            <div class="row py-5">
+
+                <!-- Card 1 -->
+
+                <div class="col-lg-4 col-12  text-center d-flex justify-content-center pb-3 pb-lg-0">
+                    <div class="card" style="width: 16rem;">
+                        <img src="assets/img/card1.jpg" class="card-img-top img-fluid" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title mb-3">Brenda Almeida</h5>
+                            <p class="card-text mt-4">Brenda é veterinária apaixonada por animais, com experiência em cuidados e saúde animal. Ela é paciente, carinhosa e gosta de levar os pets para passeios ao ar livre.</p>
+                            <a href="https://wa.me/5592984781455" class="btn btn-success" target="_blank">Saber mais</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+
+                <div class="col-lg-4 col-12  text-center d-flex justify-content-center pb-3 pb-lg-0">
+                    <div class="card" style="width: 16rem;">
+                        <img src="assets/img/card2.jpg" class="card-img-top img-fluid" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Alessadra Souza </h5>
+                            <p class="card-text">Alessadra é conhecida por seu carinho e atenção com os pets. Ela tem experiência com várias raças de cães e gatos e adora ensinar truques básicos. </p>
+                            <a href="https://wa.me/5592984781455" class="btn btn-success" target="_blank">Saber mais</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+
+                <div class="col-lg-4 col-12 text-center d-flex justify-content-center">
+                    <div class="card" style="width: 16rem;">
+                        <img src="assets/img/card3.jpg" class="card-img-top img-fluid" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Dayanna Costa</h5>
+                            <p class="card-text">Dayanna é uma cuidadora dedicada que trata cada animal como se fosse seu. Ela tem experiência em resgate de animais e cuidados especiais, incluindo primeiros socorros.</p>
+                            <a href="https://wa.me/5592984781455" class="btn btn-success" target="_blank">Saber mais</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="bg-footer m-0 pt-3 pb-3">
+      <div class="container-fluid text-center m-0 pt-3 pb-3">
+        <div class="container ">
+          <div class="row ">
+            <div class="col-lg-4 col-12 mt-3">
+              <!-- Logomarca -->
+              <a class="" href="index.html">
+                <img
+                  src="assets/img/Group 2 1.png"
+                  alt="Logomarca"
+                  width="50%"
+                />
+              </a>
+            </div>
+            <div class="col-lg-4 col-12 mt-3">
+              <p class="ms-3">
+                Precisando de alguém para cuidar do seu amiguinho?
+              </p>
+              <a href="encontrar.html" class="ms-3">
+                <button type="button" class="btn btn-primary">
+                  Encontrar um cuidador
+                </button>
+              </a>
+            </div>
+            <div class="col-lg-4 col-12">
+              <nav class="nav flex-column mt-3">
+                <a class="nav-link" href="index.html">Início</a>
+                <a class="nav-link" href="encontrar.html"
+                  >Encontrar um cuidador</a
+                >
+                <a class="nav-link" href="cuidador.html">Ser um cuidador</a>
+                <a class="nav-link" href="contatos.html">Contatos</a>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <p>&copy;Todos os direitos reservados</p>
+      </div>
+    </footer>
+
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/script-encontrar.js"></script>
+  </body>
+</html>

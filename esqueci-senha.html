@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/img/bootstrap.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/feline-track_2047.png" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <style>
+        * {
+            box-sizing: border-box;
+            /*propriedade que calcula padding e margem*/
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            color: #fff;
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            font-weight: 400;
+            background:#FFB552;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .conteudo {
+            flex: 1 0 auto;
+
+        }
+
+        .container {
+            background-color: #fff;
+            width: 100%;
+            max-width: 450px;
+            margin: 80px auto;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .container img {
+            width: 70%;
+        }
+
+        .container h2 {
+            color: rgb(0, 0, 0);
+            font-weight: 600;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+
+
+        footer {
+            color: #0c0a0a;
+            flex-shrink: 0;
+            /* propriedade trabalha para deixar o footer no fim*/
+        }
+
+        footer p {
+            font-family: "Helvetica Neue", Arial, sans-serif;
+            font-size: 12px;
+
+        }
+        
+        label {
+            color: #004d97;
+            font-size: 14px;
+            
+        }
+        input {
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+
+<title>BemPets - Cuidadores de Animais</title>
+</head>
+
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+
+    </header>
+
+    <!-- Conteúdo Principal -->
+    <main class="container-fluid  conteudo">
+        <section class="container ">
+
+            <!-- Logo -->
+            <div class="text-center" >
+                <a href="index.html">
+                    <img src="assets/img/logo.png" alt="Logo">
+                </a>
+            </div>
+
+            <!--Título e Subtítulo-->
+            <div class="col-12 text-center mb-4 ">
+                <h2>Esqueceu sua senha?</h2>
+                <h4 class="text-black">Preencha os dados</h4>
+            </div>
+
+            <!-- Formulário -->
+            <form class="row g-1" action="" method="post">
+                <div class="col-12 form-floating mb-3 ">
+                    <input type="text" class="form-control" id="email" placeholder="">
+                    <label for="email">Nome Completo</label>
+                </div>
+                <div class="col-12 form-floating">
+                    <input type="email" class="form-control" id="senha" placeholder="">
+                    <label for="senha">Email</label>
+                </div>
+
+                <div class="col-12 mt-4 mb-3 text-center">
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+            </form>
+
+            <!-- Links de nova senha e cadastro-->
+            <div class="row mt-3">
+                <div class="col-12 mb-4 text-center fw-bold">
+                    <a href="login.html">Voltar ao Login</a>
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="container-fluid ">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2>&copy; BemPets</h2>
+                <p>Todos os direitos reservados - 2024</p>
+            </div>
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
