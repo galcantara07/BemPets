@@ -60,3 +60,6 @@ Facilitar o encontro de tutores e cuidadores, trazendo praticiade e conforto pri
 •	Suporte ao cliente 24h
 
 •	Flexibilidade de preços
+
+<h2> 🐈‍⬛ Conclusão 🐈‍⬛ </h2>
+O desenvolvimento do projeto para a criação de um sistema, consistindo no cadastro de tutores e cuidadores, surgiu com a intenção de facilitar e simplificar a rotina de donos de animais de estimação ao mesmo tempo que oferece uma oportunidade de trabalho para os amantes de pet. Quando um serviço é simplificado de forma intuitiva, os impactos não são refletidos apenas no cenário de um único nicho, mas sim em uma perspectiva geral, como comercial e econômica. O objetivo presente deste trabalho é demonstrar como a tecnologia é capaz de auxiliar no dia a dia dos indivíduos, e como através de análises, um pensamento lógico e o uso de ferramentas de programação, é possível solucionar um problema comum visto em nossa sociedade. 
