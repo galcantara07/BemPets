@@ -24,7 +24,7 @@ O site foi desenvolvido com a utilização das seguintes linguagens: HTML, CSS, 
 * [Conclusão](#conclusão)
 
 <h2> 🐕 Premissas 🐕 </h2>
-Facilitar o encontro de tutores e cuidadores, trazendo praticiade e conforto principalmente para os animais de estimação.
+Facilitar o encontro de tutores e cuidadores, trazendo praticidade e conforto principalmente para os animais de estimação.
 
 <h2> 🐈 Regras de negócio do site BemPets 🐈 </h2>
 •	Site: Atualização diária do rank de cuidadores melhores classificados por meio de feedback e comentários.
