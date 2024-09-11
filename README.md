@@ -3,13 +3,13 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 <h2> Descrição Geral do Projeto </h2>
-O “BemPets” é um site que tem como objetivo o encontro de tutores de animais de estimação que precisam de alguém qualificado para cuidar do seu amigo, e cuidadores que estão dispostos a zelarem por esses animais. O principal diferencial do sistema BemPets é a segurança da nossa plataforma em relação aos cuidaodores: Aqui não basta fazer um cadastro, a pessoa que deseja ser o nosso cuidador terá que passar por uma prova teórica, investigação de ficha criminal e atualizações contínuas das nossas medidas de seguranaça. Tudo isso para transmitir confiança para os clientes em nossos serviços!
+O “BemPets” é um site que tem como objetivo o encontro de tutores de animais de estimação que precisam de alguém qualificado para cuidar do seu amigo, e cuidadores que estão dispostos a zelarem por esses animais. O principal diferencial do sistema BemPets é a segurança da nossa plataforma em relação aos cuidadores: Aqui não basta fazer um cadastro, a pessoa que deseja ser o nosso cuidador terá que passar por uma prova teórica, investigação de ficha criminal e atualizações contínuas das nossas medidas de seguranaça. Tudo isso para transmitir confiança para os clientes em nossos serviços!
 
-Projeto fictício desenvolvido para o projeto avaliativo final do curso Programa de Desenvolvedor Full Stack (Senac)
+Projeto fictício desenvolvido para o pitch avaliativo final do curso Programa de Desenvolvedor Full Stack (Senac)
 
 
 <h2> Descrição Técnica </h2>
-O site foi desenvolvido com a utilização das seguintes linguagens: HTML, CSS, Java Script, PHP com complementos. Utilizamos as ferramentas Visual Studio Code, XAMPP e MySQL Workbench como ambientes de desenvolvimento e teste.
+O site foi desenvolvido com a utilização das seguintes linguagens: HTML, CSS, Java Script (Front-End) e PHP com complementos (Back-End). Utilizamos as ferramentas Figma, Visual Studio Code, XAMPP e MySQL Workbench como ambientes de desenvolvimento e teste e Bootstrap como Framework.
 
 # Índice 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
